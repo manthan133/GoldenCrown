@@ -1,6 +1,6 @@
 # GoldenCrown
 
-## The backend challenge question as mentioned in repository solved with considering 
+## The backend challenge question mentioned in repository solved with considering 
 
 * ### Code
      * #### readability
