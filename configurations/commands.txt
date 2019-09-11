@@ -1,0 +1,5 @@
+Commands
+
+1: Who is the ruler of Southeros?
+2: Send message
+3: Allies of King?
