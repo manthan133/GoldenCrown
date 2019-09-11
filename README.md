@@ -7,6 +7,6 @@
      * #### maintainability
      * #### extensibility
 * ### SOLID Principles and glimpse of command design pattern.
-* ### Use of apropriate Data Structures.
+* ### Use of appropriate Data Structures.
 
 ### Suggestion required and welcomed.
